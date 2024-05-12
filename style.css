@@ -1,0 +1,18 @@
+.div01 {
+    width: 686px;
+    height: 464px;
+    background-color: #0019F9;
+    position: relative;
+    margin-top: 9px;
+    margin-left: 9px;
+}
+
+
+.div02 {
+    width: 253px; 
+    height: 190px;
+    background-color: #F80303; 
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
